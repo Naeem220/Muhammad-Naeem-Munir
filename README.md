@@ -59,9 +59,9 @@
 
 ## 📌 Featured Projects
 
-- 🔗 [Eventify-Full-Stack](https://github.com/zees123-svg/Eventify)
-- 🔗 [Eventify-Front-end](https://github.com/zees123-svg/Eventify-F.E-Project)
-- 🔗 [Portfolio 1](https://github.com/zees123-svg/Portfolio1)
+- 🔗 [Portfolio](https://github.com/Naeem220/Portfolio)
+- 🔗 [Calculator](https://github.com/Naeem220/Calculator)
+- 🔗 [Student-Record-CRUD](https://github.com/Naeem220/Student-Record-(CRUD))
 
 ---
 
@@ -69,7 +69,7 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923011497307)
 
-[![Email](https://img.shields.io/badge/Email-versatilezeeshan1708@gmail.com-red?style=flat-square&logo=gmail)](mailto:mrnm2133@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mrnm2133@gmail.com-red?style=flat-square&logo=gmail)](mailto:mrnm2133@gmail.com)
 
 ---
 
