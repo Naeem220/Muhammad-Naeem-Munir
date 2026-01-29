@@ -61,7 +61,7 @@
 
 - 🔗 [Portfolio](https://github.com/Naeem220/Portfolio)
 - 🔗 [Calculator](https://github.com/Naeem220/Calculator)
-- 🔗 [Student-Record-CRUD](https://github.com/Naeem220/Student-Record-(CRUD))
+- 🔗 [Student-Record-CRUD](https://github.com/Naeem220/Student-Record-CRUD-)
 
 ---
 
